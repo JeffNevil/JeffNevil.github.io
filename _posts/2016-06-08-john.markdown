@@ -1,6 +1,0 @@
----
-published: true
-title: John
-layout: post
----
-[John](http://www.johnlewis.com/buying-guides/beds-buying-guide)
