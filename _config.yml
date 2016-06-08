@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://JeffNevil.github.io
+title: The Jeff Nevil Blog
+tagline: Business News & Opinion
+description: I'm a father, B2B content writer, novice sailor & all-round curmudgeon.
+paginate: 5
