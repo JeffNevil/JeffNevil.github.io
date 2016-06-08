@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Bad Web Design: A Matter of Perspective?
 layout: post
 ---
