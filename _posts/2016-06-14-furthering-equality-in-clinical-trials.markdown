@@ -1,0 +1,22 @@
+---
+published: true
+title: Furthering Equality in Clinical Trials
+layout: post
+---
+![](http://i.imgur.com/ZFsTzi0.jpg)
+
+Source: [Simon D.](https://www.flickr.com/photos/qiaomeng/4785747219/)
+
+Clinical trials have always been viewed as a progressive practice. Patients who elect to take part do so not only to help themselves, but also others, and in turn further the development of modern medicines that can save people’s lives. A whole arm of the pharmaceutical industry has grown around running these global clinical trials, making them as diverse and inclusive as possible which in turn provides more data for research.
+
+However, a growing lack of clinical trial patients could prove highly disruptive to the fight against many deadly diseases, including cancer and HIV. A recent sweeping study by the Memorial Sloan Kettering Cancer Centre found less Americans are willing to enrol in clinical trials in 2016. The survey, which questioned over 1,500 patients and over 600 healthcare professionals, found only [35 percent](https://www.sciencedaily.com/releases/2016/05/160523105038.htm) of Americans were ‘likely’ to take part in a clinical trial, further compounded by a dangerously low 4 percent of people who had actually participated in a clinical trial each year. On top of this, only 40 percent showed any positive impression of the effectiveness of clinical trials.
+
+The study describes this lack of participation as the potential ‘Achilles heel’ in continued clinical trial success, as well as damaging to the wider cancer community. This would suggest clinical trials can’t afford to turn anyone away, yet in the UK this has been the case for a number of years. A recent editorial in the British Journal of Sports Medicine has drawn light to [how women are excluded](http://thinkprogress.org/health/2016/06/08/3785632/menstruation-clinical-research/) from many clinical trials for a variety of biological reasons. Out of 6 million participants, only 39 percent were woman, which is a massive disparity compared to almost every other medical field, patient or professional side.
+
+Some of these biological complexities include the menstrual cycle, the prospect of pregnancy, and even the supposed physiological variables of the female body. What these effects entail isn’t made clear, but [previous studies](http://link.springer.com/article/10.2165/00128071-200102060-00001) have shown that women are almost twice likely to have an adverse reaction to a consumer drug. This unpredictability has resulted in exclusion from many clinical trials for women, and the extent is just coming to light.
+
+The presents a major flaw in the effectiveness of clinical trials. The point being that higher diversity in gender, age, and lifestyle presents a larger data pool from which to research new medicines. The logistical side of clinical trials are often built around this caveat; operational mangers oversee [international trial periods](http://www.nihr.ac.uk/get-involved/international-clinical-trials-day.htm) to widen the variety of participants, [comparator product sourcing](https://www.alcura-health.com/web/healthcare-companies/services/research-and-development/comparator-sourcing) ensures new drugs can be tested against existing products, and even technology is now playing a big part in sourcing both of these.
+
+Although this presents some serious issues to the continued viability of clinical trials, a [new genetic technique](http://www.diabetes.co.uk/news/2016/jun/new-genetic-technique-could-improve-drug-safety-in-clinical-trials-90847285.html) which could improve the success rate of trail drugs across males and females with heart diseases, cancer, and type 2 diabetes is emerging. The technique, which has been developed in joint commission between the University of Cambridge and GlaxoSmithKline, involves carefully identifying the genetic variants between patients and mimicking the genetic reaction a drug has on a wide pool of people. This creates data which can be used to assess health risks, as well as the benefits which further development of a test-phase drug could provide.
+
+If such a technique could become mainstream, this would open clinical trials up to a much wider range of people. The need for quality in clinical trials is not so much an ideological one, but a more logical decision driven by the proven results of larger data pools in these kinds of ongoing medical trials.
