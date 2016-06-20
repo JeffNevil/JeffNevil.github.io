@@ -9,7 +9,7 @@ You remember when your mum kept nagging you to get straight into work after scho
 
 Volunteering isn’t necessarily picking litter from local parks or directing rush hour traffic in a high visibility vest. I’m not degrading either role, but at the end of the day – people will still litter, and as sure as the sun rises in the morning and sets in the evening, people will drive angrily to work during rush hour. Look further afield than your home town. Look even further than England – even Europe. 
 
-There are an incredible number and calibre of volunteering opportunities, from sports coaching in South Africa to construction work in Nepal. To reuse my least favourite cliché – there really is something for everyone. Be sure that a [student volunteer abroad](http://www.bunac.org/uk/volunteer-abroad) has a far more meaningful effect on the community and lives of those they volunteer for.
+There are an incredible number and calibre of volunteering opportunities, from sports coaching in South Africa to construction work in Nepal. To reuse my least favourite cliché – there really is something for everyone. Be sure that a [student volunteer abroad](http://www.bunac.org/uk/volunteer-abroad) programme has a far more meaningful effect on the community and lives of those they volunteer for.
 
 Of course the role of volunteering differs enormously. Sometimes you’ll be providing essential basic facilities and infrastructure to towns and villages still recovering from famine, poverty or natural disaster. You may find yourself planting seeds and repairing protected nature reserves. Other hours may be spent teaching children languages or sports.
 
@@ -17,7 +17,7 @@ Whilst I am very much of the opinion that not every action deserves a reward –
 
 Staffing Director of DaVita, a Fortune 500 Company specialising in kidney dialysis, Tony Blake believes that adding any volunteering experience you might have to your CV “adds depth”, “experience” and “it gets noticed”. Adding volunteering experience to your CV is particularly potent when it is in some way relevant or applicable to your interview role. 
 
-A staggering 100% of recent BUNAC [volunteers in the US](http://www.bunac.org/uk/work-abroad/summer-camp/summer-camp-usa/summer-camp-infographic) felt they could apply the experience gained to their career. The Corporation for National and Community Service (US) recently found that those who had taken upon volunteer positions have a 27% higher chance of finding work, after being out of work. Even more impressive, comes the revelation that volunteers in rural areas of the US have a 55% better chance of getting a job compared to those without volunteering experience.
+A staggering 100% of recent BUNAC volunteers in the US felt they could apply the experience gained to their career. The Corporation for National and Community Service (US) recently found that those who had taken upon volunteer positions have a 27% higher chance of finding work, after being out of work. Even more impressive, comes the revelation that volunteers in rural areas of the US have a 55% better chance of getting a job compared to those without volunteering experience.
 
 *“The best way to find yourself is to lose yourself in the service of others” – Ghandi*
 
